@@ -6,6 +6,8 @@ Como usar?
 
 3: Coloque os dados com atenção no que a máquina está pedindo! Caso você insira um dado incorreto, é recomendado reiniciar o código.
 
+4: Instale a bibloteca pandas >>>>> pip install pandas
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 How to use?
@@ -15,6 +17,8 @@ How to use?
 2: The code is prepared in case you haven't created the folder called "Patient Sheets" where all the sheets are placed, so don't worry.
 
 3: Enter the data carefully into what the machine is asking for! If you enter incorrect data, it is recommended to restart the code.
+
+4: Install pandas library >>>>> pip install pandas
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
@@ -26,6 +30,7 @@ How to use?
 
 3: ¡Ingrese los datos cuidadosamente en lo que solicita la máquina! Si ingresa datos incorrectos, se recomienda reiniciar el código.
 
+4: Instalar la biblioteca pandas >>>>> pip instalar pandas
 
 
 
